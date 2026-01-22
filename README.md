@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Shivesh, 👋
 
 ## AI/ML Engineer | Building Production GenAI Applications
 
@@ -44,82 +44,9 @@ and fine-tuned models.
 - Email: [email]
 ```
 
----
 
-## **Certifications to Add (Optional but Valuable)**
 
-Complete these **free** certificates to boost credibility:
 
-1. **DeepLearning.AI - LangChain Series** (4 courses)
-   - Add each as separate certification on LinkedIn
-   - ~12 hours total, completely free
-
-2. **Hugging Face NLP Course**
-   - Add completion badge to LinkedIn
-
-3. **Google Cloud Skills Boost - Generative AI**
-   - Free, recognized certificate
-
-*Add these to LinkedIn "Licenses & Certifications" section*
-
----
-
-## **Interview Talking Points**
-
-When asked about GenAI skills, you can confidently say:
-
-✅ **"I've built 6 production GenAI applications covering RAG, fine-tuning, agents, and multi-modal AI"**
-
-✅ **"I've deployed LLM-powered APIs handling hundreds of concurrent users with sub-2 second latency"**
-
-✅ **"I've fine-tuned Llama 3.1 achieving 92% accuracy, reducing API costs by 60% vs GPT-4"**
-
-✅ **"I've implemented advanced RAG systems with hybrid search, improving retrieval accuracy by 35%"**
-
-✅ **"I understand when to use RAG vs fine-tuning vs prompt engineering based on use case"**
-
-✅ **"I've worked with OpenAI, Anthropic, and open-source models like Llama and Mistral"**
-
----
-
-## **What NOT to Claim**
-
-Be honest about limitations:
-
-❌ Don't say: "Expert in GenAI" (15 days isn't enough)
-✅ Say: "Experienced in building production GenAI applications"
-
-❌ Don't say: "Deep learning researcher"
-✅ Say: "Applied ML engineer focused on LLM applications"
-
-❌ Don't claim skills you didn't actually use in projects
-✅ Only list tools/frameworks you've actually built something with
-
----
-
-## **Skills Hierarchy (What to Emphasize)**
-
-**Tier 1 - Lead with these:**
-- RAG Systems & Vector Databases
-- LangChain / LlamaIndex
-- OpenAI API / Claude API
-- Production API Development (FastAPI)
-
-**Tier 2 - Supporting skills:**
-- Fine-tuning (LoRA/QLoRA)
-- AI Agents & Function Calling
-- Multi-modal AI
-- Prompt Engineering
-
-**Tier 3 - Nice to have:**
-- Multi-agent systems
-- Specific models (Llama, Mistral)
-- Deployment tools
-
----
-
-## **Final Resume Skills Section (Copy-Paste Ready)**
-```
 TECHNICAL SKILLS
 
 Languages: Python, JavaScript, [others]
