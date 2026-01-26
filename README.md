@@ -26,10 +26,6 @@ and fine-tuned models.
 **Vector DBs:** Pinecone, Qdrant, Chroma  
 **DevOps:** Docker, CI/CD, Monitoring
 
-### 📊 GitHub Stats
-
-[Add GitHub stats widgets]
-
 ### 📝 Latest Blog Posts
 
 - [How I Built a Production RAG System](link)
