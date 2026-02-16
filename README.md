@@ -5,9 +5,9 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivesh-dave-835b4b1b6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buymeacoffee.com/gulabjamun04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gulabjamun04.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiveshdave0133@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_BLOG_LINK)
+
 
 </div>
 
@@ -160,17 +160,6 @@ Visual document intelligence system
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Production RAG System](YOUR_BLOG_LINK)
-- [Fine-tuning Llama 3.1: Lessons Learned](YOUR_BLOG_LINK)
-- [LangChain vs LlamaIndex: A Comparison](YOUR_BLOG_LINK)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](YOUR_BLOG_LINK)
-
----
 
 ## 🎯 Current Focus
 
