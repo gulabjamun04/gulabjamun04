@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** specializing in **distributed systems** and **GenAI applications**. I build high-performance backend systems with a focus on scalability, observability, and production-grade architecture. From database sharding to event-driven pipelines, I design systems that handle real-world load efficiently.
+I'm a aspiring **Software Engineer** specializing in **distributed systems** and **GenAI applications**. I build high-performance backend systems with a focus on scalability, observability, and production-grade architecture. From database sharding to event-driven pipelines, I design systems that handle real-world load efficiently.
 
 **What I Do:**
 - 🏗️ Design distributed systems with sharding, caching, and message queues
