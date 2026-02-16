@@ -14,14 +14,24 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** who builds **production-grade GenAI applications**. I specialize in designing scalable backend systems, APIs, and full-stack solutions powered by LLMs. My focus is on clean architecture, system design, and delivering reliable software that leverages AI capabilities.
+I'm a **Software Engineer** specializing in **distributed systems** and **GenAI applications**. I build high-performance backend systems with a focus on scalability, observability, and production-grade architecture. From database sharding to event-driven pipelines, I design systems that handle real-world load efficiently.
 
 **What I Do:**
-- 🏗️ Build robust backend systems with Python, FastAPI, and microservices architecture
-- 🤖 Integrate GenAI capabilities (LLMs, RAG, agents) into production applications
-- 🔧 Design scalable APIs and data pipelines for AI-powered products
-- 📊 Implement monitoring, testing, and CI/CD for reliable deployments
-- 💡 Bridge the gap between AI research and production-ready software
+- 🏗️ Design distributed systems with sharding, caching, and message queues
+- ⚡ Optimize performance (achieved 1,094 req/s with sub-100ms P99 latency)
+- 🤖 Integrate LLMs and RAG systems into production applications
+- 📊 Build comprehensive observability with Prometheus & Grafana
+- 🔧 Develop RESTful APIs with FastAPI and microservices architecture
+
+**Core Strengths:** System design, database optimization, caching strategies, event-driven architecture, and production monitoring.
+
+---
+
+## 🎓 Education
+
+**Indian Institute of Technology Indore**  
+B.Tech. in Computer Science and Engineering | CPI: 7.02/10.00  
+📅 July 2019 – May 2023
 
 ---
 
@@ -31,30 +41,30 @@ I'm a **Software Engineer** who builds **production-grade GenAI applications**. 
 <tr>
 <td width="50%">
 
-### 🔗 [Production RAG System](https://github.com/gulabjamun04/rag-system)
-Scalable knowledge base API with **87% accuracy**
+### 🔗 [Distributed URL Shortener](https://github.com/gulabjamun04/distributed-url-shortener)
+High-performance distributed system with **1,094 req/s** throughput
 
 **Engineering Highlights:**
-- RESTful API with FastAPI & async processing
-- Redis caching for sub-second responses
-- Hybrid search architecture (semantic + BM25)
-- Dockerized deployment with monitoring
+- Application-level sharding across 3 PostgreSQL nodes
+- Multi-layer caching (100% hit rate, 2.7ms P50)
+- Event-driven analytics with Redpanda
+- 98.80ms P99 latency on commodity hardware
 
-**Tech:** Python, FastAPI, Pinecone, Redis, Docker
+**Tech:** FastAPI, PostgreSQL, Redis, Redpanda, Docker, Prometheus, Grafana
 
 </td>
 <td width="50%">
 
-### 🎯 [LLM Fine-tuning Pipeline](https://github.com/gulabjamun04/llm-finetuning)
-End-to-end ML pipeline with **92% accuracy**
+### 🤖 [MCP-Powered AI Assistant](https://github.com/gulabjamun04/mcp-ai-assistant)
+Pluggable AI agent with runtime extensibility
 
 **Engineering Highlights:**
-- Automated data preprocessing pipeline
-- Distributed training with mixed precision
-- Model versioning & experiment tracking
-- Production inference API
+- Anthropic MCP with 13 JSON-schema tools
+- LangChain ReAct agent with autonomous tool chaining
+- Zero-downtime hot-swapping in <5s
+- Full observability (P50/P95/P99 tracking)
 
-**Tech:** Python, Hugging Face, W&B, FastAPI
+**Tech:** Python, MCP SDK, FastAPI, LangChain, Ollama, Redis, PostgreSQL
 
 </td>
 </tr>
@@ -62,30 +72,30 @@ End-to-end ML pipeline with **92% accuracy**
 <tr>
 <td width="50%">
 
-### 🤖 [AI Agent Backend](https://github.com/gulabjamun04/ai-agents)
-Microservices architecture for autonomous agents
+### 📚 [Advanced RAG System](https://github.com/gulabjamun04/advanced-rag-system)
+Production-grade document Q&A platform
 
 **Engineering Highlights:**
-- Event-driven architecture with message queues
-- Tool orchestration engine
-- Rate limiting & cost optimization
-- Comprehensive logging & monitoring
+- Hybrid search (semantic + BM25)
+- Redis caching with 117x speedup (1.3s → 0.011s)
+- Multi-format document processing pipeline
+- 100% test coverage with comprehensive metrics
 
-**Tech:** FastAPI, LangChain, PostgreSQL, Redis
+**Tech:** Python, Mistral AI, LangChain, ChromaDB, FastAPI, Docker
 
 </td>
 <td width="50%">
 
-### 👁️ [Multi-Modal Document API](https://github.com/gulabjamun04/multimodal-api)
-Real-time document processing service
+### 🚀 [Your Next Project]
+Coming soon - building in public!
 
-**Engineering Highlights:**
-- Async file processing with queues
-- WebSocket support for live updates
-- CDN integration for media storage
-- Auto-scaling with load balancing
+**Planned Features:**
+- Microservices architecture
+- Real-time data processing
+- Scalable API design
+- Full observability stack
 
-**Tech:** FastAPI, GPT-4V, Docker, S3
+**Tech:** TBD
 
 </td>
 </tr>
@@ -95,34 +105,43 @@ Real-time document processing service
 
 ## 🛠️ Tech Stack
 
-### Core Software Engineering
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge)
-
-### GenAI & LLM Integration
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-9B59B6?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases & Streaming
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Redpanda](https://img.shields.io/badge/Redpanda-FF4B4B?style=for-the-badge)
+
+### AI/ML & GenAI
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MCP SDK](https://img.shields.io/badge/MCP_SDK-181818?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge)
 
 ### DevOps & Monitoring
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Core Competencies
+- **System Design:** Distributed Systems, Microservices Architecture, Database Sharding, Caching Strategies
+- **Performance:** Query Optimization, Connection Pooling, Load Testing, Latency Optimization (P50/P95/P99)
+- **AI/ML:** RAG Systems (Hybrid Search, Semantic Search), Agent Orchestration (ReAct), Vector Databases, Prompt Engineering
+- **Backend:** REST APIs, Async Processing, Event-Driven Architecture, Database Design (PostgreSQL, Redis, MongoDB)
 
 ---
 
@@ -157,11 +176,11 @@ Real-time document processing service
 
 ## 🎯 Current Focus
 
-- 🔭 Building **scalable backend systems** for GenAI applications
-- 🏗️ Learning **system design patterns** for AI-powered products
-- 🚀 Exploring **microservices architecture** and distributed systems
-- 🤝 Open to **SDE roles** focusing on GenAI/LLM integration
-- 💬 Ask me about **API design, backend development, and GenAI systems**
+- 🔭 Building **high-performance distributed systems** with robust observability
+- 🏗️ Deepening expertise in **system design** and **database optimization**
+- 🤖 Exploring advanced **LLM orchestration** patterns and agentic workflows
+- 🚀 Seeking **SDE roles** focusing on backend systems and GenAI integration
+- 💬 Ask me about **distributed systems, caching, PostgreSQL sharding, RAG systems**
 
 ---
 
@@ -181,7 +200,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
   
-### 💡 "Building robust software that happens to be intelligent"
+### 💡 "Designing systems that scale, perform, and adapt"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gulabjamun04&color=blueviolet&style=flat-square&label=Profile+Views)
 
