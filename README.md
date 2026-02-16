@@ -86,20 +86,6 @@ Production-grade document Q&A platform
 </td>
 <td width="50%">
 
-### 🚀 [Your Next Project]
-Coming soon - building in public!
-
-**Planned Features:**
-- Microservices architecture
-- Real-time data processing
-- Scalable API design
-- Full observability stack
-
-**Tech:** TBD
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -159,18 +145,6 @@ Coming soon - building in public!
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gulabjamun04&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Production RAG System](YOUR_BLOG_LINK)
-- [Fine-tuning Llama 3.1: Lessons Learned](YOUR_BLOG_LINK)
-- [LangChain vs LlamaIndex: A Comparison](YOUR_BLOG_LINK)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](YOUR_BLOG_LINK)
 
 ---
 
