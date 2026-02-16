@@ -39,7 +39,7 @@ B.Tech. in Computer Science and Engineering | CPI: 7.02/10.00
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔗 [Distributed URL Shortener](https://github.com/gulabjamun04/distributed-url-shortener)
 High-performance distributed system with **1,094 req/s** throughput
@@ -53,7 +53,7 @@ High-performance distributed system with **1,094 req/s** throughput
 **Tech:** FastAPI, PostgreSQL, Redis, Redpanda, Docker, Prometheus, Grafana
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 [MCP-Powered AI Assistant](https://github.com/gulabjamun04/mcp-ai-assistant)
 Pluggable AI agent with runtime extensibility
@@ -67,10 +67,7 @@ Pluggable AI agent with runtime extensibility
 **Tech:** Python, MCP SDK, FastAPI, LangChain, Ollama, Redis, PostgreSQL
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
+<td width="33%">
 
 ### 📚 [Advanced RAG System](https://github.com/gulabjamun04/advanced-rag-system)
 Production-grade document Q&A platform
@@ -84,8 +81,8 @@ Production-grade document Q&A platform
 **Tech:** Python, Mistral AI, LangChain, ChromaDB, FastAPI, Docker
 
 </td>
-<td width="50%">
-
+</tr>
+</table>
 
 ---
 
@@ -145,6 +142,18 @@ Production-grade document Q&A platform
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gulabjamun04&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built a Production RAG System](YOUR_BLOG_LINK)
+- [Fine-tuning Llama 3.1: Lessons Learned](YOUR_BLOG_LINK)
+- [LangChain vs LlamaIndex: A Comparison](YOUR_BLOG_LINK)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](YOUR_BLOG_LINK)
 
 ---
 
