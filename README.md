@@ -33,7 +33,7 @@ I'm a aspiring **Software Engineer** specializing in **distributed systems** and
 <tr>
 <td width="33%">
 
-### 🔗 [Distributed URL Shortener](https://github.com/gulabjamun04/distributed-url-shortener)
+### 🔗 [Distributed URL Shortener](https://github.com/gulabjamun04/distributed-url-shortner)
 High-performance distributed system with **1,094 req/s** throughput
 
 **Engineering Highlights:**
@@ -61,7 +61,7 @@ Pluggable AI agent with runtime extensibility
 </td>
 <td width="33%">
 
-### 📚 [Advanced RAG System](https://github.com/gulabjamun04/advanced-rag-system)
+### 📚 [Advanced RAG System](https://github.com/gulabjamun04/ADVANCED-RAG-SYSTEM)
 Production-grade document Q&A platform
 
 **Engineering Highlights:**
@@ -156,7 +156,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivesh-dave-835b4b1b6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiveshdave0133@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buymeacoffee.com/gulabjamun04)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gulabjamun04.github.io/portfolio/)
 
 </div>
 
