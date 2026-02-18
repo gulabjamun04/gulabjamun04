@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a aspiring **Software Engineer** specializing in **distributed systems** and **GenAI applications**. I build high-performance backend systems with a focus on scalability, observability, and production-grade architecture. From database sharding to event-driven pipelines, I design systems that handle real-world load efficiently.
+I'm an aspiring **Software Engineer** specializing in **distributed systems** and **GenAI applications**. I build high-performance backend systems with a focus on scalability, observability, and production-grade architecture. From database sharding to event-driven pipelines, I design systems that handle real-world load efficiently.
 
 **What I Do:**
 - 🏗️ Design distributed systems with sharding, caching, and message queues
@@ -83,7 +83,6 @@ Production-grade document Q&A platform
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
@@ -96,7 +95,6 @@ Production-grade document Q&A platform
 ### Databases & Streaming
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
 ![Redpanda](https://img.shields.io/badge/Redpanda-FF4B4B?style=for-the-badge)
 
@@ -110,7 +108,6 @@ Production-grade document Q&A platform
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Core Competencies
 - **System Design:** Distributed Systems, Microservices Architecture, Database Sharding, Caching Strategies
