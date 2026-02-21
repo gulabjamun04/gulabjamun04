@@ -18,7 +18,7 @@ I'm an aspiring **Software Engineer** specializing in **distributed systems** an
 
 **What I Do:**
 - 🏗️ Design distributed systems with sharding, caching, and message queues
-- ⚡ Optimize performance (achieved 1,094 req/s with sub-100ms P99 latency)
+- ⚡ Optimize performance (achieved 1,497 req/s with zero errors across 90,000 requests)
 - 🤖 Integrate LLMs and RAG systems into production applications
 - 📊 Build comprehensive observability with Prometheus & Grafana
 - 🔧 Develop RESTful APIs with FastAPI and microservices architecture
@@ -34,13 +34,14 @@ I'm an aspiring **Software Engineer** specializing in **distributed systems** an
 <td width="33%">
 
 ### 🔗 [Distributed URL Shortener](https://github.com/gulabjamun04/distributed-url-shortner)
-High-performance distributed system with **1,094 req/s** throughput
+High-performance distributed system with **1,497 req/s** throughput
 
 **Engineering Highlights:**
-- Application-level sharding across 3 PostgreSQL nodes
-- Multi-layer caching (100% hit rate, 2.7ms P50)
-- Event-driven analytics with Redpanda
-- 98.80ms P99 latency on commodity hardware
+- Application-level sharding across 3 PostgreSQL nodes via consistent hashing
+- Multi-layer caching (100% hit rate, 2.7ms P50, sub-230ms P99)
+- 37% throughput gain migrating from threaded → async aiohttp + uvloop
+- Zero errors across 90,000 requests in 60s sustained load test
+- Event-driven analytics with Redpanda + production deploy via Cloudflare Tunnel
 
 **Tech:** FastAPI, PostgreSQL, Redis, Redpanda, Docker, Prometheus, Grafana
 
